@@ -1,0 +1,3 @@
+﻿  SOM.cpp
+c:\users\madlenka\studia\informatyka\semestr 5\psi\psi-projekt6\som-kohonen\som-kohonen\som.cpp(266): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  SOM-Kohonen.vcxproj -> C:\Users\Madlenka\Studia\Informatyka\Semestr 5\PSI\PSI-projekt6\SOM-Kohonen\Debug\SOM-Kohonen.exe
